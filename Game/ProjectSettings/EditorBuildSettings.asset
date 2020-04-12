@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Main Menu 1.unity
+    guid: 918275b5769ea489aba308c9722ad51f
+  - enabled: 1
+    path: Assets/Scenes/Kirnys.unity
+    guid: b50514c45d42e4aef97b0baf12fcc661
+  - enabled: 1
+    path: Assets/Scenes/Instructions 1.unity
+    guid: 8c1cbcdb7af23426aaa006affa30bc2c
+  - enabled: 1
+    path: Assets/Scenes/Stats.unity
+    guid: 21ff3e4f8d2db4fe3862443f9e3aff4c
+  - enabled: 0
+    path: Assets/Scenes/Instructions.unity
+    guid: f38d6eac495d844c18b0ef1a3f9732b8
+  - enabled: 0
+    path: Assets/Scenes/Main Menu.unity
+    guid: 7d5b534a7f90649daa01025e642aa8b8
+  - enabled: 1
+    path: Assets/Scenes/Weapons.unity
+    guid: fd5f1b7c55d0c481bb0f19551374c315
+  - enabled: 1
+    path: Assets/Scenes/House1.unity
+    guid: d2ad973079fbc4a0eb82c11a1676fc95
+  - enabled: 1
+    path: Assets/Scenes/SwordInfo.unity
+    guid: 30d2e2184f9b343b2a0300972e8d0d99
+  - enabled: 1
+    path: Assets/Scenes/ShieldInfo.unity
+    guid: e0f81fdadaa2f4983bf3d083b1d0aa22
+  - enabled: 1
+    path: Assets/Scenes/CharacterMaker.unity
+    guid: 9fa0664a58f314a60af0fb4453a75740
+  - enabled: 1
+    path: Assets/Scenes/newInventory.unity
+    guid: e9fbff60f239f4cbeb0f5b43c9b03451
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: f8f97f85ef29249b59797743851ebc19
+  - enabled: 1
+    path: Assets/Scenes/newAbandonedHouse.unity
+    guid: 6d2a6cc625231be4aa7d2914a9a4896c
+  - enabled: 1
+    path: Assets/Scenes/Diet 1.unity
+    guid: 1039f51c59d8f4d81a741c6fdbb3b010
+  - enabled: 1
+    path: Assets/Scenes/newTown.unity
+    guid: 0b793dd26015a4b448fce60f3b9d82d6
+  - enabled: 1
+    path: Assets/Scenes/newCampfire.unity
+    guid: a612255e7888d1b4e9ccb0d7de623da0
+  - enabled: 1
+    path: Assets/Scenes/newCabin.unity
+    guid: 667a0305a84a4b54589178d644cf4324
+  - enabled: 1
+    path: Assets/Scenes/newArena.unity
+    guid: a303a4958622c5a4f957d3114d74bcf5
+  - enabled: 1
+    path: Assets/Scenes/Sanctuary.unity
+    guid: e1c747539840f4a318b235fad2b3983b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
